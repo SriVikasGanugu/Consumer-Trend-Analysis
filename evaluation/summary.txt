@@ -1,0 +1,320 @@
+Model Evaluation: Linear_Regression
+MSE: 0.504146477406858
+R-squared: 0.996150895440084
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.616220674764117
+R-squared: 0.9952952209021686
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.5036891286200427
+R-squared: 0.9961543872492697
+
+Model Evaluation: Decision_Tree
+MSE: 3.773000000000006
+R-squared: 0.9711935475989787
+
+Model Evaluation: Random_Forest
+MSE: 1.2129512666666422
+R-squared: 0.990739246507291
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 5.220333333333323
+R-squared: 0.9597659965766459
+
+Model Evaluation: Random_Forest
+MSE: 1.713280866666652
+R-squared: 0.9867954508164294
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 1.4839999999999947
+R-squared: 0.9885625577395586
+
+Model Evaluation: Random_Forest
+MSE: 1.998106633333309
+R-squared: 0.9846002498322407
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 5.012999999999989
+R-squared: 0.9613639501000049
+
+Model Evaluation: Random_Forest
+MSE: 2.0329039999999887
+R-squared: 0.9843320605653503
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 1.3539999999999952
+R-squared: 0.9895644900130475
+
+Model Evaluation: Random_Forest
+MSE: 2.3881064999999895
+R-squared: 0.981594454039397
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 1.5059999999999956
+R-squared: 0.9883929999701989
+
+Model Evaluation: Random_Forest
+MSE: 2.2351524666666758
+R-squared: 0.9827732969806042
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 5.38999999999999
+R-squared: 0.9584583465068873
+
+Model Evaluation: Random_Forest
+MSE: 2.166809100000016
+R-squared: 0.9833000310170827
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 1.5603333333333282
+R-squared: 0.9879742436610229
+
+Model Evaluation: Random_Forest
+MSE: 1.5177901333333423
+R-squared: 0.988302131392542
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 1.6643333333333283
+R-squared: 0.9871726978422318
+
+Model Evaluation: Random_Forest
+MSE: 2.2329821666666576
+R-squared: 0.9827900238545517
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 5.932333333333326
+R-squared: 0.954278490586461
+
+Model Evaluation: Random_Forest
+MSE: 2.4095854999999693
+R-squared: 0.9814289117063029
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 1.5429999999999984
+R-squared: 0.9881078346308214
+
+Model Evaluation: Random_Forest
+MSE: 2.399898533333315
+R-squared: 0.9815035708181147
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 4.940666666666655
+R-squared: 0.9619214354932025
+
+Model Evaluation: Random_Forest
+MSE: 1.639599833333313
+R-squared: 0.9873633231644345
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 6.106333333333325
+R-squared: 0.9529374427742529
+
+Model Evaluation: Random_Forest
+MSE: 1.8370220333333112
+R-squared: 0.9858417564437949
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 1.1986666666666628
+R-squared: 0.9907616706270109
+
+Model Evaluation: Random_Forest
+MSE: 1.9409245999999836
+R-squared: 0.9850409615603974
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 1.6983333333333286
+R-squared: 0.9869106540168578
+
+Model Evaluation: Random_Forest
+MSE: 2.0424958333333256
+R-squared: 0.984258134662438
+
+Model Evaluation: Linear_Regression
+MSE: 0.8780371300602202
+R-squared: 0.9932328174005476
+
+Model Evaluation: Lasso_Regression(Alternate Version)
+MSE: 0.8975642839713857
+R-squared: 0.9930823182796784
+
+Model Evaluation: Ridge_Regression(Alternate Version)
+MSE: 0.8779693993746717
+R-squared: 0.9932333394125457
+
+Model Evaluation: Decision_Tree
+MSE: 1.1449999999999951
+R-squared: 0.991175288821964
+
+Model Evaluation: Random_Forest
+MSE: 1.687119399999983
+R-squared: 0.986997081722392
+
