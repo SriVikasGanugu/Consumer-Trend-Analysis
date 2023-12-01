@@ -1,41 +1,23 @@
-#### SER594: Project Proposal
-#### Title: Identifying Crime Spots 
-#### Author: Ireish Purohit
-#### Date: September 9, 2023
+#### SERX94: Consumer Trend Analysis UK
 
-Keywords: 
-crime patterns, crime GIS, crime trend
+#### Title (Analysis of consumer trends)
 
+#### Author (Sri Vikas Ganugu)
 
-Description: 
-I aim to identify the high-crime areas in the city and to indentify common patterns like to time, street, or date. 
+#### Date (12-09-2023)
 
-
+Keywords: Consumer Trend, Analysis, UK
+Description:
+The objective of this project is to conduct analysis of consumer trends in the United Kingdom across various industries. By examining evolving consumer preferences and behavior this project aims to predict future market dynamics.
 Intellectual Merit:
-The project can help in discovering different attributes or factors that may influence a criminal activity by generating insights into crime trends. New sources of information like "geographic clustering" could be visualized making the police department, as well as people aware about those "hot-spots".
-
-
-Data Sourcing:
-I have not finalzined the exact data source for the project but I plan to use different public crime databases present online. 
-I have found a crime database of Los Angeles which has a crime data from 2020 to present. 
-Link: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
-
-I also tentatively plan to create a dataset by scraping information (reported crimes) from social media and news websites.
-  
-  
+This project can help estimate a products success or failure based on consumer trends. It can also help in stock market prediction for products(like soft drinks, household, etc). This would be helpful to identify inflation and deflation in UK.
+Data Sourcing: The data source for the project would be the official website for Office of National Statistics UK. Which was last updated on "30 June 2023", which is again scheduled for an update on "29 September 2023".
 Background Knowledge:
+Data Visualization(The Visual Display of Quantitative Information" by Edward Tufte)
+Consumer Behaviour("Consumer Behavior: Buying, Having, and Being" by Michael R. Solomon )
+Statistics("Statistics" by Robert H. Johnson and Patricia J. Kuby)
+Related Work:
+"Ethical and responsible tourism: Consumer trends in the UK" by Harold Goodwin and Justin Francis
+"Trends in Consumer Behavior Literature: A Content Analysis " by James G. Hegelson, E. Alan Kluge,John Mager, Cheri Taylor
 
-1. The blog by Andrew P Wheller. -> https://andrewpwheeler.com/
 
-2. This blog article by Data-POp Alliance -> https://datapopalliance.org/lwl-39-the-data-detectives-how-ai-and-big-data-are-reshaping-criminal-justice/
-
-3. Book: "Crime Analysis and Crime Mapping" by Rachel Boba Santos
-
-
-Related Work: 
-
-1. "Identifying Hotspots of Crime and Terrorism" by "Martin E. Andresen". 
-Published in: European Journal of Applied Mathematics, 2006.
-
-2. "Hot Spots of Juvenile Crime: A Longitudinal Study of Arrest Incidents at Street Segments in Seattle, Washington" by "Ronald L. Simons", "Leslie Gordon Simons", "Wesley G. Jennings".
-Published in: Journal of Quantitative Criminology, 2011
